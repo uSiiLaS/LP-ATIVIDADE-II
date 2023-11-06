@@ -20,7 +20,7 @@ int main()
    char clima[250];
    int temperatura;
    
-   printf("Quantos graus a temperatura externa? ");
+   printf("Como está a temperatura externa hoje? ");
    scanf("%d", &temperatura);
    
    if (temperatura > 25){
