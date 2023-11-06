@@ -38,6 +38,8 @@ int main()
        case 3:
        strcpy(saudacao, "Accueillir!");
        break;
+      default:
+      printf("Código inválido...");
    }
    
    printf("%s", saudacao);
