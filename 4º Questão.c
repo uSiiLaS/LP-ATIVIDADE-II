@@ -20,6 +20,8 @@ int main()
 int idade;
 char resultado[250];
 
+printf("Olá\n");
+printf("Seja bem-vindo(a)\n");
 printf("Informe a sua idade: ");
 scanf("%d", &idade);
   
